@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=TrieConstruction
+PROJECTNAME=DistanceMatrixCalculation
 
 # Active Configuration
 DEFAULTCONF=Debug
